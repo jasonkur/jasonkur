@@ -6,6 +6,7 @@
   - [ ] create an open source side project
 - 😍 Loves: cool UI, beautiful animations, learning new web dev trends
 - ⚡ Fun fact: I love to eat 🍣 and hunt for good deals 💰
+<br/>
 
 ---
 
@@ -38,14 +39,13 @@
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/webpack/webpack.png" />][github]
 
-<br/>
+<br/><br/>
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkur&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-
+---
 ### Connect:
 [<img align="left" alt="Jason LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
