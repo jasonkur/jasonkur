@@ -2,7 +2,6 @@
 🔭 I’m currently working on ...
 🌱 I’m currently learning ... 
 🥅 2020 Goals: 
-    - [ ] Learn Vue 3
 😍 Loves: cool UI, beautiful animations, learning new web dev trends
 ⚡ Fun fact: I love to eat sushi 🍣 and hunt for good deals 💰
 
