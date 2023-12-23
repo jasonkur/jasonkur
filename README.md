@@ -1,12 +1,4 @@
-### A little about me:
-- 🥅 2020 Goals: 
-  - [ ] learn vue 3
-  - [ ] learn build tools and CI/CD pipelines
-  - [ ] relaunch a personal website
-  - [ ] create an open source side project
-- 😍 Loves: cool UI, beautiful animations, learning new web dev trends
-- ⚡ Fun fact: I love to eat 🍣 and hunt for good deals 💰
-<br/>
+
 
 ---
 
